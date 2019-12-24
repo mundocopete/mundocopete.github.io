@@ -1,6 +1,6 @@
 
 body {
-   background-image:url("mundocopetelargo.png");
+   background-image:url("purohielo.png");
     margin-left: 33%;
     margin-right: 33%;
     margin-bottom: 0%;
@@ -22,7 +22,7 @@ body {
  }
  .bandas {
     display: grid;
-	 background-image:url("mundocopetelargo.png");
+	 background-image:url("fondito.png");
     grid-template-columns: 20%, 20%, 20%, 20%, 20% ;
     background-color: rgb(70, 220, 219);
     grid-gap: 10px;
