@@ -1,0 +1,25 @@
+﻿<p>NECTAR WATT’S 1.0 LT</p> <p>4000</p>
+<p>GASEOSA  1.5 LT</p> <p>4000</p>
+<p>GASEOSA  3.0 LT </p> <p> 6000</p>
+<p>BECKER LATA 470 CC 6X</p> <p>8000</p>
+<p>ESCUDO LATA 470 CC 6X</p> <p>8000</p>
+<p>CORONA 330 CC 6 PACK </p> <p>10500</p>
+<p>SOL 330 CC 6 PACK</p> <p>12000</p>
+<p>KUNSTMANN BOTELLA 270 CC 4x</p> <p>14000</p>
+<p>HEINEKEN LATA 470 CC 6x</p> <p>15000</p>
+<p>ALTO 35 750 CC</p> <p>11000</p>
+<p>WYBOROWA SABOR 40 750 CC</p> <p>16000</p>
+<p>RON BARCELO DORADO 35 750 CC</p> <p>16000</p>
+<p>RED BULL 355 CC</p> <p>3000</p>
+<p>MR BIG 1.5 LT</p><p>7000</p>
+<p>MR BIG 3.0 LT</p> <p>8000</p>
+<p>PISCO 35 ALTO 750 CC</p> <p> + GASEOSA .5 LT</p> <p>15000</p>
+<p>PISCO 35 ALTO 750 CC </p> <p>+ GASEOSA 3.0 LT</p> <p>18000</p>
+<p>BARCELO DORADO 35 750 CC</p> <p> + GASEOSA 1.5 LT</p> <p>20000</p>
+<p>BARCELO DORADO 35 750 CC</p> <p> + GASEOSA 3.0 LT</p> <p>22000</p>
+<p>WYBOROWA SABOR 40 750 CC</p> <p> + TONICA A 1.5 LT </p><p>20000</p>
+<p>WYBOROWA LIMON 40 750 CC + AGUA TONICA A 3.0 LT</p> <p>22000</p>
+
+
+
+
