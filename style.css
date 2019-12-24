@@ -36,6 +36,7 @@ body {
  }
  
  article {
+	 background-image:url("purohielo.png");
     background: rgb(0, 62, 119);
      padding-top: 5px;
      height: 300 px;
